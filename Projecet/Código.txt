@@ -16,7 +16,7 @@ loginfont = Font(
 
 
 def entrar():
-        if senha.get() == 'cancelar11':
+        if senha.get() == '123':
             room.destroy()
             window = Tk()
 
